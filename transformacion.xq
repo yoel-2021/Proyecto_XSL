@@ -1,0 +1,1 @@
+xslt:transform-text('libros.xml', 'libros.xsl')
